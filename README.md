@@ -1,1 +1,1 @@
-This is the README file for QA env
+This is the README file for PROD environment

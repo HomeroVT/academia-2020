@@ -3,3 +3,4 @@ This a new repository
 1. Download the IDE Visual Studio Code
 2. Adding text
 3. Following new process
+4. Writing
